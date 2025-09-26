@@ -1,0 +1,13 @@
+Name,Type,Seconds
+INT,Insert,0,21
+GUIDv4,Insert,0,10
+ULID_STR,Insert,0,10
+ULID_BIN,Insert,0,13
+GUIDv4+ClusterOnDate,Insert,0,12
+GUIDv7,Insert,0,75
+INT,Query,0,18
+GUIDv4,Query,0,01
+ULID_STR,Query,0,01
+ULID_BIN,Query,0,01
+GUIDv4+ClusterOnDate,Query,0,01
+GUIDv7,Query,0,00
