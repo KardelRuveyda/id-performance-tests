@@ -51,7 +51,7 @@ appsettings.json dosyasında test parametrelerini değiştirebilirsiniz:
   "PageSkip": 500,          
   "PageTake": 100          
 }
-```bash
+```
 
 # 📊 UUID, ULID ve INT Performans Karşılaştırması
 
@@ -79,3 +79,4 @@ appsettings.json dosyasında test parametrelerini değiştirebilirsiniz:
 
 👩‍💻 **Yazar:** Kardel Rüveyda Çetin  
 📚 **Medium:** *UUID vs ULID vs INT: Modern Identifier Strategies*
+
