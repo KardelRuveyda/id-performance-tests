@@ -78,5 +78,5 @@ appsettings.json dosyasında test parametrelerini değiştirebilirsiniz:
 ---
 
 👩‍💻 **Yazar:** Kardel Rüveyda Çetin  
-📚 **Medium:** *UUID vs ULID vs INT: Modern Identifier Strategies*
+
 
